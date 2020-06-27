@@ -95,7 +95,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 272}
   m_MaxSize: {x: 22012, y: 10022}
   vertical: 0
-  controlID: 105
+  controlID: 63
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -372,21 +372,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6ee1ffffa8e1ffff3ee2ffff46e2ffffc0f1ffff0cf2ffff76fbffffb240000026450000
+      m_ExpandedIDs: 76fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Player
-        m_OriginalName: Player
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 17440
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 6}
       m_SearchString: 
@@ -473,19 +473,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\ANDERSON\Documents\GitHub\Labirinto\LabirintoCena
+  m_LastProjectPath: C:\Users\ANDERSON\Documents\GitHub\LabirintoDungeon\LabirintoCena
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 222e0000
-    m_LastClickedID: 11810
+    m_SelectedIDs: b82c0000
+    m_LastClickedID: 11448
     m_ExpandedIDs: 00000000b82c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -541,7 +541,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 1a2f0000c02d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -619,7 +619,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -720,11 +720,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.24270181, y: 0.68278015, z: -0.25958344, w: 0.63837695}
     speed: 2
-    m_Value: {x: 0.24213134, y: 0.6822093, z: -0.25819588, w: 0.63976383}
+    m_Value: {x: 0.2427016, y: 0.68277955, z: -0.25958323, w: 0.6383764}
   m_Size:
     m_Target: 39.846928
     speed: 2
-    m_Value: 38.13103
+    m_Value: 39.846928
   m_Ortho:
     m_Target: 0
     speed: 2
